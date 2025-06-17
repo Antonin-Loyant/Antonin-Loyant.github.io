@@ -43,3 +43,13 @@ section h2 {
 #a-propos img {
     border-radius: 50%;
 }
+
+#projets {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+#projets img {
+    border-radius: 50%;
+}
